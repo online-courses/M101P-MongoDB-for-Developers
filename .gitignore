@@ -2,3 +2,5 @@
 /include
 /lib
 *.Python
+*.sublime-project
+*.sublime-workspace
