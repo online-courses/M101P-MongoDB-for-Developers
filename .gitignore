@@ -4,3 +4,5 @@
 *.Python
 *.sublime-project
 *.sublime-workspace
+*.DS_Store
+*.localized
